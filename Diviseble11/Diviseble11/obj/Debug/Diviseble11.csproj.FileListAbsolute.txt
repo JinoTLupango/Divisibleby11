@@ -1,0 +1,6 @@
+D:\JinoRepos\Jino Project\Diviseble11\Diviseble11\bin\Debug\Diviseble11.exe.config
+D:\JinoRepos\Jino Project\Diviseble11\Diviseble11\bin\Debug\Diviseble11.exe
+D:\JinoRepos\Jino Project\Diviseble11\Diviseble11\bin\Debug\Diviseble11.pdb
+D:\JinoRepos\Jino Project\Diviseble11\Diviseble11\obj\Debug\Diviseble11.csproj.CoreCompileInputs.cache
+D:\JinoRepos\Jino Project\Diviseble11\Diviseble11\obj\Debug\Diviseble11.exe
+D:\JinoRepos\Jino Project\Diviseble11\Diviseble11\obj\Debug\Diviseble11.pdb
